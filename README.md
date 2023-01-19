@@ -1,2 +1,2 @@
 # fake_talk
-A simple to speaker submission form for a conference.
+A speaker submission form for a conference.
